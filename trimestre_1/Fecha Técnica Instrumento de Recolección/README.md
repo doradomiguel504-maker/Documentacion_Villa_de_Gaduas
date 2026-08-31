@@ -1,1 +1,1 @@
-En esta carpeta se manejaran las diferentes versiones que se llevaran a cabo con repecto al elemento el cual se uso para la recoleccion de la informacion dentro de la empresa en este caso la ficha que demuestra las preguntas planteadas con la finalidad de recolectar informacion
+
