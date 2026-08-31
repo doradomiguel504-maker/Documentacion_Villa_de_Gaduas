@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/doradomiguel504-maker/Documentacion_Villa_de_Gaduas/main/LOGO%20VILLA%20DE%20GUADUAS.jpg" alt="Logo Villa de Guaduas" width="70" height="70" style="border-radius: 50%; vertical-align: middle; object-fit: cover;"/> Documentación — Sistema de Inventario de Materias Primas
+  <img src="https://github.com/doradomiguel504-maker/Documentacion_Villa_de_Guaduas/blob/main/LOGO%20VILLA%20DE%20GUADUAS.jpg" alt="Logo Villa de Guaduas" width="70" height="70" style="border-radius: 50%; vertical-align: middle; object-fit: cover;"/> Documentación — Sistema de Inventario de Materias Primas
 </h1>
 
 <p align="center">
